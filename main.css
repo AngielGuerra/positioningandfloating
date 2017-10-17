@@ -1,0 +1,55 @@
+
+.total{
+	background-color: gray;
+	margin: 0;
+}
+
+.contenedor {
+	background-color: silver;
+	border: 1px solid black;
+	margin-left: 2em;
+	position: fixed;
+	clear: both;
+}
+.titular {
+	text-align: right;
+	margin-right: 220px;
+	font-family: Merriwheather;
+
+}
+li {
+	float: left;
+	height: 40px;
+	margin: 20px;
+}
+p {
+	background-color: teal;
+	margin: 1em;
+	font-family: Noto serif;
+}
+.today{
+	float: left;
+	width: 350px;
+	margin: 3em 2em 1em 2em;
+	border: 1px solid black;
+}
+.yesterday{
+	float: right;
+	width: 250px;
+	margin: 1em 2em;
+	border: 1px solid black;
+
+}
+.mushos{
+	float: left;
+	width: 250px;
+	margin: 1em 2em;
+	border: 1px solid black;
+
+}
+span {
+	position: relative;
+	background-color: gray;
+	top: 40px;
+	left: 30px;
+}
